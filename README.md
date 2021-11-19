@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mohammad Reza</h1>
 <h3 align="center">A passionate Front-End developer from Iran, Isfahan</h3>
 
-<h2></h2>
+</br>
 
 <p align="center">
   <a href="https://t.me/mre01"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/mre01/"></a>
   <a href="mailto:mre.dev01@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:mre.dev01@gmail.com/"></a>
+  <a href="https://wa.me/+98991344342"><img
+      src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://wa.me/+98991344342/"></a>
+  <a href="https://twitter.com/mre_dev"><img
+      src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=f4f4f4&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/mre_dev/"></a>
 </p>
 
-**<p align="left">Languages and Tools : </p>**
+<h2></h2>
+
+**<p align="center">Languages and Tools</p>**
 
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
