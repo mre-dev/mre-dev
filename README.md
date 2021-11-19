@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammad Reza</h1>
 <h3 align="center">A passionate Front-End developer from Iran, Isfahan</h3>
 
-</br>
 <h2></h2>
-  
-**Languages and Tools:**
+
+<p align="center">
+  <a href="https://t.me/mre01"><img
+      src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/mre01/"></a>
+  <a href="mailto:mre.dev01@gmail.com"><img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:mre.dev01@gmail.com/"></a>
+</p>
+
+**<p align="left">Languages and Tools : </p>**
+
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
@@ -21,9 +28,6 @@
   <a target="_blank" href="https://reactjs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
       width="45" height="45" /></a>
-  <a target="_blank" href="https://nextjs.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-      alt="NextJS" width="45" height="45" /></a>
   <a target="_blank" href="https://redux.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
       width="45" height="45" /></a>
@@ -45,19 +49,24 @@
   <a target="_blank" href="https://d3js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://www.mongodb.com/"><img
-      src="https://raw.githubusercontent.com//devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="45"
+  <a target="_blank" href="https://www.php.net/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="45"
       height="45" /></a>
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
+  <a target="_blank" href="https://github.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45"
+      height="45" /></a>
 </p>
 
 <h2></h2>
- </br>
- 
-<img alt="GitHub Stats" align="top" width="67%" src="https://github-readme-stats.vercel.app/api?username=mre-dev&theme=dracula" />
-<img alt="Top Language" align="center" width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mre-dev&langs_count=4&theme=dracula" />
+</br>
+
+<div>
+  <img alt="GitHub Stats" align="top" width="67%" src="https://github-readme-stats.vercel.app/api?username=mre-dev&theme=dracula" />
+  <img alt="Top Language" align="center" width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mre-dev&langs_count=5&theme=dracula" />
+</div>
 
 <!---
 mre-dev/mre-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
