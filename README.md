@@ -71,7 +71,7 @@
 
 <div align="center">
   <img alt="GitHub Stats" align="top" width="65%" src="https://github-readme-stats.vercel.app/api?username=mre-dev&theme=dracula" />
-  <img alt="Top Language" align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mre-dev&langs_count=5&theme=dracula" />
+  <img alt="Top Language" align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mre-dev&langs_count=4&theme=dracula" />
 </div>
 
 <!---
