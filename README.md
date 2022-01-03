@@ -14,6 +14,8 @@
       src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://wa.me/+989913440342/"></a>
   <a href="https://twitter.com/mre_dev"><img
       src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=f4f4f4&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/mre_dev/"></a>
+  <a href="https://instagram.com/mre_dev"><img
+      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/mre_dev/"></a>
 </p>
 
 <h2></h2>
