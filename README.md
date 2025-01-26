@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammad Reza</h1>
-<h3 align="center">A passionate Front-End developer from Iran, Isfahan</h3>
+<h3 align="center">A passionate Front-End developer from Iran, Tehran</h3>
 
 </br>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mre-dev/"><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=LinkedIn&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
   <a href="https://t.me/mre01"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/mre01/"></a>
   <a href="mailto:mre.dev01@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:mre.dev01@gmail.com/"></a>
-  <a href="https://www.linkedin.com/in/mre-dev/"><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
   <a href="https://wa.me/+989913440342"><img
       src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://wa.me/+989913440342/"></a>
-  <a href="https://twitter.com/mre_dev"><img
-      src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=f4f4f4&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/mre_dev/"></a>
   <a href="https://instagram.com/mre_dev"><img
       src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://instagram.com/mre_dev/"></a>
 </p>
@@ -32,6 +30,9 @@
   <a target="_blank" href="https://www.w3schools.com/css/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
+  <a target="_blank" href="https://www.json.org/"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON"
+      width="45" height="45" /></a>
   <a target="_blank" href="https://webpack.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
       width="45" height="45" /></a>
@@ -44,6 +45,9 @@
   <a target="_blank" href="https://jquery.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
       alt="jQuery" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.postman.com/"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+      alt="Postman" width="45" height="45" /></a>
   <a target="_blank" href="https://sass-lang.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
       height="45" /></a>
@@ -59,8 +63,8 @@
   <a target="_blank" href="https://d3js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://www.php.net/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="45"
+  <a target="_blank" href="https://nextjs.org/"><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next js" width="45"
       height="45" /></a>
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
